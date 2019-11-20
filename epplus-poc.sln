@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epplus-poc", "epplus-poc\epplus-poc.csproj", "{05D0F38C-9B9B-470C-B1C8-724520D96E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D0F38C-9B9B-470C-B1C8-724520D96E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D0F38C-9B9B-470C-B1C8-724520D96E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D0F38C-9B9B-470C-B1C8-724520D96E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D0F38C-9B9B-470C-B1C8-724520D96E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
